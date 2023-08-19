@@ -1,13 +1,19 @@
 .odd {
     background-color: pink;
+    font-family: Verdana, "DejaVu Sans" ,sans-serif;
+}
+.midSize {
+    font-size: 24px;
 }
 
 #bigblue {
     color: blue;
     font-size: 36px;
+    
 }
 
 #lgbold {
-    color:lightgreen;
+    background-color:lightgreen;
     font-weight: bold;
+    
 }
