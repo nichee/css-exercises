@@ -1,0 +1,13 @@
+.odd {
+    background-color: pink;
+}
+
+#bigblue {
+    color: blue;
+    font-size: 36px;
+}
+
+#lgbold {
+    color:lightgreen;
+    font-weight: bold;
+}
